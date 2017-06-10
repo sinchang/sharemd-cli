@@ -29,7 +29,7 @@ const argv = yargs
     desc: `set markdown theme`,
     alias: `s`
   })
-  .example(`gist-it readme.md --tile "readme.md" --style "github"`)
+  .example(`sharemd readme.md --t "readme.md" --s "github" --i "VV99rzJ1Ameiuqw3"`)
   .version()
   .help().argv
 
