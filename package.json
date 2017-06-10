@@ -23,8 +23,8 @@
     "sharemd": "index.js"
   },
   "scripts": {
-    "lint:fix": "eslint --fix --quiet --",
-    "lint": "eslint --",
+    "lint:fix": "eslint --fix --quiet *.js",
+    "lint": "eslint *.js",
     "pre-commit": "lint-staged",
     "start": "node .",
     "test": "mocha test.js"
