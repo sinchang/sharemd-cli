@@ -9,7 +9,7 @@
 ## Preview
 
 - [demo](http://api.sinchang.me/markdown/Ol3XJTNzLeplCTuv)
-- [vidoe](http://sinchang.qiniudn.com/sharemd.mp4)
+- [video](http://sinchang.qiniudn.com/sharemd.mp4)
 
 ## Server
 
