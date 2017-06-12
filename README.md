@@ -8,7 +8,8 @@
 
 ## Preview
 
-[demo](http://api.sinchang.me/markdown/Ol3XJTNzLeplCTuv)
+- [demo](http://api.sinchang.me/markdown/Ol3XJTNzLeplCTuv)
+- [vidoe](http://sinchang.qiniudn.com/sharemd.mp4)
 
 ## Server
 
@@ -34,7 +35,8 @@ sharemd --v
 
 sharemd --h
 
-sharemd readme.md --t 'readme.md'
+sharemd readme.md --t 'readme.md' --s 'github' --i 'Ol3XJTNzLeplCTuv'
+
 ```
 
 #### License
