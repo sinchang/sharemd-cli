@@ -30,7 +30,7 @@
     "test": "mocha test.js"
   },
   "dependencies": {
-    "axios": "^0.16.2",
+    "axios": "^0.21.1",
     "cli-spinners": "^1.0.0",
     "coffee": "^3.3.2",
     "log-update": "^2.0.0",
